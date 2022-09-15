@@ -204,6 +204,18 @@ a.blogs-button {
   font-size: 25px;
 }
 
+.questions-numbers{
+  color: white !important;
+  padding-bottom: 1rem;
+}
+
+.question-answers{
+  color: white !important;
+  padding-bottom: 3rem;
+  font-size: 25px;
+}
+
+
 @media only screen and (max-width: 700px) {
   .box-container {
     padding: 0 20px;
